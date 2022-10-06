@@ -14,10 +14,6 @@ public class HelpMe : MonoBehaviour
 
     public float moveSpeed;
 
-    public float rotateSpeed;
-
-
-
     void Update()
     {
 
@@ -37,19 +33,6 @@ public class HelpMe : MonoBehaviour
 
 
 
-        //Rotate the player
-
-        Vector3 mousePosition = Input.mousePosition;
-        mousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
-
-        Vector2 direction = new Vector2(
-            mousePosition.x - transform.position.x,
-            mousePosition.y - transform.position.y
-        );
-
-        transform.up = direction;
-
-
         /*
         //Rotate the player based on input from the right thumbstick on the controller
         float rotHorizontalInput = Input.GetAxis("RotHorizontal");
@@ -63,7 +46,7 @@ public class HelpMe : MonoBehaviour
 
         transform.rotation = Quaternion.LookRotation(rotDirection);
 
-        */
+       
        
         float rotHorizontalInput = Input.GetAxis("RotHorizontal");
         float rotVerticalInput = Input.GetAxis("RotVertical");
@@ -74,6 +57,6 @@ public class HelpMe : MonoBehaviour
         );
 
         transform.up = rotDirection;
-
+         */
     }
 }
