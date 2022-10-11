@@ -10,7 +10,6 @@ public class PlayerMovement : MonoBehaviour
     float vertical;
 
     public float runSpeed;
-    public float stoppingThreshold;
 
     private void Awake()
     {
@@ -25,6 +24,7 @@ public class PlayerMovement : MonoBehaviour
     {
         horizontal = Input.GetAxisRaw("Horizontal");
         vertical = Input.GetAxisRaw("Vertical");
+
     }
 
     private void FixedUpdate()
