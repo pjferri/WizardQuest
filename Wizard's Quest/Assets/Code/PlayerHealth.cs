@@ -55,7 +55,8 @@ public class PlayerHealth : MonoBehaviour
             }
         }
     }
-    void OnTriggerEnter2D(Collider2D collider) {
+    void OnTriggerStay2D(Collider2D collider)
+    {
         if (collider.gameObject.tag == "Enemy")
         {
             Enemy enemyScript = collider.GetComponent<Enemy>();

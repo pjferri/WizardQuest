@@ -31,32 +31,5 @@ public class HelpMe : MonoBehaviour
 
         transform.Translate(Vector3.up * verticalInput * moveSpeed * Time.deltaTime);
 
-
-
-        /*
-        //Rotate the player based on input from the right thumbstick on the controller
-        float rotHorizontalInput = Input.GetAxis("RotHorizontal");
-        float rotVerticalInput = Input.GetAxis("RotVertical");
-
-        Vector3 rotDirection = new Vector3(
-            rotHorizontalInput,
-            rotVerticalInput,
-            0
-        );
-
-        transform.rotation = Quaternion.LookRotation(rotDirection);
-
-       
-       
-        float rotHorizontalInput = Input.GetAxis("RotHorizontal");
-        float rotVerticalInput = Input.GetAxis("RotVertical");
-
-        Vector2 rotDirection = new Vector2(
-            rotHorizontalInput,
-            rotVerticalInput
-        );
-
-        transform.up = rotDirection;
-         */
     }
 }
