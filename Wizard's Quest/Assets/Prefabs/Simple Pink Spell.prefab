@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 2566190481416765133}
   - component: {fileID: 2566190481416765170}
   - component: {fileID: 3117799130666664775}
+  - component: {fileID: -7301661318056298683}
+  - component: {fileID: 4353651836642357272}
   m_Layer: 0
   m_Name: Simple Pink Spell
   m_TagString: Untagged
@@ -127,3 +129,32 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-7301661318056298683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2566190481416765171}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09c8da2e45ef9724b92c97a64272afa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 1
+--- !u!58 &4353651836642357272
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2566190481416765171}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.022443175, y: 0.42193642}
+  serializedVersion: 2
+  m_Radius: 0.29005048
