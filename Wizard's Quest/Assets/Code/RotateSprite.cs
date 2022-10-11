@@ -8,7 +8,7 @@ public class RotateSprite : MonoBehaviour
     public float rotateSpeed;
 
     //Rotate the player
-    void Update() {
+    void FixedUpdate() {
         rotatePlayer();
     }
 
@@ -22,6 +22,9 @@ public class RotateSprite : MonoBehaviour
             transform.position.y - mousePosition.y
         );
 
-        transform.up = direction;
+        if (direction.x != 0)
+        {
+            transform.up = direction;
+        }        
     }
 }
