@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: d74bb1451443e4748b4f2ac12a08b158
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1267
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ff7b46dc63fde45825de3e2eeb50b0
+      internalID: 237403082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1267
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98ff66c8f580fd48a87b97493751fe7
+      internalID: 736606927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1267
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48c478bd998d7a4aafc611a27e4c2b9
+      internalID: -1172681385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1267
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a56394c70801ec4e888e132ef577b13
+      internalID: 83619925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1267
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6f0cfa196218b42b8cb8befc717f88
+      internalID: -1598809711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1267
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9730222c41caa6f4293f6037be649818
+      internalID: 1482848072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1267
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab9842a93167e34083de8c6d3e47bce
+      internalID: -2074761413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1267
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afb815d12d13f147a58457d8d2ce50a
+      internalID: -1259525783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1086
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9d771509bac534bb3b5234a0af9f24
+      internalID: 1064929320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1086
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f6c28d2b4a9284e8e4d2f3f1c5600f
+      internalID: -175663807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1086
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a898a141c10f1d8409c259b1ed4606ae
+      internalID: 1817365440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1086
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673da3f65894f024aa77050da765a715
+      internalID: 828348395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1086
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ccc3ce7bb437b4981cc4759b31d8f0
+      internalID: -1080010957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_13
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1086
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c1b78706dd6994aa9a3ec28cd9c0a1
+      internalID: 1874792555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1086
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5670cf7ff159a42843f07f64af6751
+      internalID: -2030930316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_15
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1086
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd303524c2ee1bf46a8e46987952cf81
+      internalID: -178766087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe6ce737be68b84da05dc8dfa596d2a
+      internalID: -1671828248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 905
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d122ce79db2d4134887cb0888220730b
+      internalID: -1834497308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 905
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612f7e51c17718a408a0223fa2fca3b9
+      internalID: -1604814344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 905
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a592ea7a0916cf4a9c78bc909c59ba6
+      internalID: 1376033084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_20
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 905
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fff624a98000f4bb223971375046f8
+      internalID: -1007263634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_21
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 905
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f7c8ca4b54bda40affc67f4fc022e8
+      internalID: -191833846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_22
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 905
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a63296a1eb7464e90f98ac7562e9c0
+      internalID: -1268596332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_23
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 905
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00ac30795102f6489b4569d40d56af9
+      internalID: 1434704351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86715f9345e290e4fad7e62024aea7f9
+      internalID: -762229723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 724
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a808f1b1007d84988f6dcdb7691b3c
+      internalID: 2114816593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 724
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b903052e06be341a61d00596ea585f
+      internalID: 424838987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_27
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 724
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745e5ee8f5cf896459d489acf64df44f
+      internalID: -823799422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_28
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 724
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbbe70079c6a254e8fff6acca0563e7
+      internalID: 1322327298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_29
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 724
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce49e8ed5a98a840b3d9fd1640c0ad8
+      internalID: 1017399462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_30
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 724
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2b64dcee162d644b2f8a8a34780bcd
+      internalID: -388288913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_31
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 724
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624314526a29ab14287a6889c3a826a6
+      internalID: -467945698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e67ebe1a31f9e4f8cf173856e2a95a
+      internalID: -1232828678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 543
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa420d5ee5c8fa0489f3c6b53f503474
+      internalID: -646536578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 543
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e4d644f77f30447b14ce2b82704bd3
+      internalID: 901732914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_35
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 543
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1ce7489d696ec409dab709536afb37
+      internalID: -952595990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_36
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 543
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce9cdd57e514784d988673a414633da
+      internalID: 643285379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_37
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 543
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470934b470e996d4186c4234172ff5cc
+      internalID: 1410928831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_38
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 543
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a581756b9b55428695a1ceae4c38e
+      internalID: -689039698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_39
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 543
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7d9db937e7d7a4ca061730e6243757
+      internalID: 804502554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158757f30f87b69489c5ad114862161c
+      internalID: -143896487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_41
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 362
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b08d27aab561c74b9801d9343337acb
+      internalID: 686624077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_42
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 362
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bba71863b848fc4496cbaba5284fb87
+      internalID: -1207399623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_43
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 362
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a15a7547bbcc745a9b7f3aa0ed72a7
+      internalID: -592839614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_44
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 362
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc135af3d308a0945a2904a5f12842f5
+      internalID: 1472928882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_45
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 362
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8105b3180ab11df4399f5f79cff41750
+      internalID: -1547578029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_46
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 362
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df403eaad1777143bbf3388ca48ee10
+      internalID: 513039627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_47
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 362
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3d5c0b42ac04a4b806b30099a29d1b
+      internalID: -716989046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7728befa2a47d6a4fb83ebd9ab13b940
+      internalID: -453581928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 181
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84951804f2cd0ae49ac1625e1d7ef8ac
+      internalID: -1897554021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_50
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 181
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6025e8d125570b459dc6077a073ece1
+      internalID: 448502131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_51
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 181
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa0e5844b04dfb44a5a607d7669b950
+      internalID: 242048337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_52
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 181
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011299214e15e8e4c93635b3b5caca48
+      internalID: -530117245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_53
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 181
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536fb7f09474f944786095b2a15bee11
+      internalID: -1849276279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_54
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 181
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1bec27e7c88be469a2fa834db3036e
+      internalID: 1177573741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_55
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 181
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33745d776d35cea4aaf92595d19434f5
+      internalID: -1875779546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f853264fc3ba2478fbd00261ebdcb3
+      internalID: -690751951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b687a464bd74264ea63f72f81bdd2c8
+      internalID: 2065431716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_58
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780d02d907ff3f1458dd2025f758b853
+      internalID: 2131351389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Pink Spell_113x181_59
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 113
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd1548427bd3d945acffc7506e2cb30
+      internalID: 623202719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Simple Pink Spell_113x181_18: -1604814344
+      Simple Pink Spell_113x181_22: -1268596332
+      Simple Pink Spell_113x181_24: -762229723
+      Simple Pink Spell_113x181_39: 804502554
+      Simple Pink Spell_113x181_19: 1376033084
+      Simple Pink Spell_113x181_58: 2131351389
+      Simple Pink Spell_113x181_16: -1671828248
+      Simple Pink Spell_113x181_3: 83619925
+      Simple Pink Spell_113x181_29: 1017399462
+      Simple Pink Spell_113x181_7: -1259525783
+      Simple Pink Spell_113x181_15: -178766087
+      Simple Pink Spell_113x181_38: -689039698
+      Simple Pink Spell_113x181_55: -1875779546
+      Simple Pink Spell_113x181_4: -1598809711
+      Simple Pink Spell_113x181_47: -716989046
+      Simple Pink Spell_113x181_32: -1232828678
+      Simple Pink Spell_113x181_41: 686624077
+      Simple Pink Spell_113x181_52: -530117245
+      Simple Pink Spell_113x181_57: 2065431716
+      Simple Pink Spell_113x181_20: -1007263634
+      Simple Pink Spell_113x181_31: -467945698
+      Simple Pink Spell_113x181_26: 424838987
+      Simple Pink Spell_113x181_43: -592839614
+      Simple Pink Spell_113x181_12: -1080010957
+      Simple Pink Spell_113x181_13: 1874792555
+      Simple Pink Spell_113x181_46: 513039627
+      Simple Pink Spell_113x181_36: 643285379
+      Simple Pink Spell_113x181_6: -2074761413
+      Simple Pink Spell_113x181_50: 448502131
+      Simple Pink Spell_113x181_54: 1177573741
+      Simple Pink Spell_113x181_35: -952595990
+      Simple Pink Spell_113x181_28: 1322327298
+      Simple Pink Spell_113x181_21: -191833846
+      Simple Pink Spell_113x181_27: -823799422
+      Simple Pink Spell_113x181_2: -1172681385
+      Simple Pink Spell_113x181_11: 828348395
+      Simple Pink Spell_113x181_40: -143896487
+      Simple Pink Spell_113x181_34: 901732914
+      Simple Pink Spell_113x181_5: 1482848072
+      Simple Pink Spell_113x181_1: 736606927
+      Simple Pink Spell_113x181_23: 1434704351
+      Simple Pink Spell_113x181_45: -1547578029
+      Simple Pink Spell_113x181_44: 1472928882
+      Simple Pink Spell_113x181_37: 1410928831
+      Simple Pink Spell_113x181_9: -175663807
+      Simple Pink Spell_113x181_33: -646536578
+      Simple Pink Spell_113x181_53: -1849276279
+      Simple Pink Spell_113x181_0: 237403082
+      Simple Pink Spell_113x181_10: 1817365440
+      Simple Pink Spell_113x181_51: 242048337
+      Simple Pink Spell_113x181_42: -1207399623
+      Simple Pink Spell_113x181_56: -690751951
+      Simple Pink Spell_113x181_59: 623202719
+      Simple Pink Spell_113x181_49: -1897554021
+      Simple Pink Spell_113x181_25: 2114816593
+      Simple Pink Spell_113x181_8: 1064929320
+      Simple Pink Spell_113x181_48: -453581928
+      Simple Pink Spell_113x181_30: -388288913
+      Simple Pink Spell_113x181_14: -2030930316
+      Simple Pink Spell_113x181_17: -1834497308
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
