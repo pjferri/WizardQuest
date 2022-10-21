@@ -39,11 +39,17 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
   - name: Floor
     uniqueID: 1594625141
     locked: 0
-  - name: Default
-    uniqueID: 0
+  - name: Effects on Floor
+    uniqueID: 1301996037
+    locked: 0
+  - name: Enemy
+    uniqueID: 3311885979
     locked: 0
   - name: Player
     uniqueID: 375733427
